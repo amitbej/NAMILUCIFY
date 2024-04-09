@@ -1,0 +1,42 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/EncodeSansExpandedSemiBold.ttf");
+  font-family: "Encode Sans Expanded";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/EncodeSansExpandedMedium.ttf");
+  font-family: "Encode Sans Expanded";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/MontserratMedium.ttf");
+  font-family: "Montserrat";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/MontserratBold.ttf");
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/MontserratRegular.ttf");
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/MontserratRomanMedium.ttf");
+  font-family: "Montserrat";
+  font-weight: 500;
+}
